@@ -12,7 +12,7 @@ Traditional firewalls are often generic, lack contextual intelligence, and are d
 
 ---
 
-## 🎯 Our Proposed Solution
+## 🎯 Our Proposed Solution---
 
 An **AI-powered firewall agent** installed on endpoint systems that:
 - Monitors application-specific network activities
